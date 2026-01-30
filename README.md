@@ -3,11 +3,11 @@
 Estudiante de Ciencia de Computación  
 Universidad de Puerto Rico – Recinto de Mayagüez
 
-## Áreas de interés
+## Habilidades tecnicas
 - C++
 - LaTeX
 - Programación
-- GitHub Projects
+##
+ninguno hasta el momento
 
-## Contacto
-Próximamente
+
